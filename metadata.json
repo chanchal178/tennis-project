@@ -1,0 +1,6 @@
+{
+  "name": "Game Analytics: Tennis Data Explorer",
+  "description": "Comprehensive sports analytics dashboard unlocking tennis competitions, venues, and rankings using Sportradar API and relational SQL database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

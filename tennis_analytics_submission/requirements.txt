@@ -1,0 +1,25 @@
+# ==============================================================================
+# Tennis Analytics Explorer - Dependencies
+# ==============================================================================
+
+# Core Application Framework
+streamlit>=1.35.0
+
+# Data Analysis and Visualization
+pandas>=2.2.0
+plotly>=5.22.0
+
+# Database ORM & Drivers
+SQLAlchemy>=2.0.30
+psycopg2-binary>=2.9.9      # PostgreSQL connector
+pymysql>=1.1.0              # MySQL connector
+cryptography>=42.0.0        # Required for MySQL auth plugins
+
+# API Client & Environment
+requests>=2.31.0
+python-dotenv>=1.0.1
+urllib3>=2.0.0
+
+# Testing & Quality
+pytest>=8.0.0
+pytest-mock>=3.12.0
